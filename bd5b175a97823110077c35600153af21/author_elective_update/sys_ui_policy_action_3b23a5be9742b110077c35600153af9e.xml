@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>parish_number</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 14:39:43</sys_created_on>
+        <sys_id>3b23a5be9742b110077c35600153af9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>parish_number</sys_name>
+        <sys_package display_value="bizcc" source="x_848632_bizcc">bd5b175a97823110077c35600153af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope>
+        <sys_update_name>sys_ui_policy_action_3b23a5be9742b110077c35600153af9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 14:39:43</sys_updated_on>
+        <table>x_848632_bizcc_house</table>
+        <ui_policy display_value="Show info message on &quot;Priest number&quot; field">f692a97e9742b110077c35600153afa4</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="bizcc">bd5b175a97823110077c35600153af21</application>
+        <file_path/>
+        <instance_id>6cae93bddb7ad7400e785d00cf961923</instance_id>
+        <instance_name>dev61944</instance_name>
+        <name>sys_ui_policy_action_3b23a5be9742b110077c35600153af9e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>parish_number</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-26 14:39:43</sys_created_on><sys_id>3b23a5be9742b110077c35600153af9e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>parish_number</sys_name><sys_package display_value="bizcc" source="x_848632_bizcc">bd5b175a97823110077c35600153af21</sys_package><sys_policy/><sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope><sys_update_name>sys_ui_policy_action_3b23a5be9742b110077c35600153af9e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-26 14:39:43</sys_updated_on><table>x_848632_bizcc_house</table><ui_policy display_value="Show info message on &quot;Priest number&quot; field">f692a97e9742b110077c35600153afa4</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1831043022</payload_hash>
+        <record_name>parish_number</record_name>
+        <reverted_from/>
+        <source>755b175a97823110077c35600153af24</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 14:39:43</sys_created_on>
+        <sys_id>0663e9be9742b110077c35600153af85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b6c6d49670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 14:39:43</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>0a63e9bece42b110a33a7b349019df84</update_guid>
+        <update_guid_history>0a63e9bece42b110a33a7b349019df84:-1831043022</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 14:43:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>3ce8555894044e008ef2f1761a76fe40</sys_id>
+        <sys_metadata>3b23a5be9742b110077c35600153af9e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>parish_number</sys_name>
+        <sys_package display_value="bizcc" source="x_848632_bizcc">bd5b175a97823110077c35600153af21</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope>
+        <sys_scope_delete display_value="">477655fdf27442a8a070864ddc387b69</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_3b23a5be9742b110077c35600153af9e</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_3b23a5be9742b110077c35600153af9e">0663e9be9742b110077c35600153af85</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 14:43:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="7f10ab1297c23110077c35600153af40" label="Document" max_length="40" name="x_848632_bizcc_document" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Document type" max_length="40" name="document_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Alokabide Report" value="alokabide Report"/>
+                <element inactive_on_update="false" label="Cataster data" value="cataster data"/>
+                <element inactive_on_update="false" label="Cost estimation" value="cost estimation"/>
+                <element inactive_on_update="false" label="Donation" value="donation"/>
+                <element inactive_on_update="false" label="Energy certificate" value="energy certificate"/>
+                <element inactive_on_update="false" label="House plan" value="house plan"/>
+                <element inactive_on_update="false" label="Insurance" value="insurance"/>
+                <element inactive_on_update="false" label="Invoice" value="invoice"/>
+                <element inactive_on_update="false" label="Register info" value="register info"/>
+                <element inactive_on_update="false" label="Works license" value="works license"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="PDF" max_length="40" name="pdf" type="file_attachment"/>
+    </element>
+</database>

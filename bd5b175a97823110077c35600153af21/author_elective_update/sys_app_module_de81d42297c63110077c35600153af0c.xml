@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Imp Tmpl X 848632 Bizcc Parish</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_imp_tmpl_x_848632_bizcc_parish</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-25 14:03:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>de81d42297c63110077c35600153af0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 848632 Bizcc Parish</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="bizcc" source="x_848632_bizcc">bd5b175a97823110077c35600153af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope>
+        <sys_update_name>sys_app_module_de81d42297c63110077c35600153af0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-25 14:03:32</sys_updated_on>
+        <timeline_page/>
+        <title>Imp Tmpl X 848632 Bizcc Parish</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="bizcc">bd5b175a97823110077c35600153af21</application>
+        <file_path/>
+        <instance_id>6cae93bddb7ad7400e785d00cf961923</instance_id>
+        <instance_name>dev61944</instance_name>
+        <name>sys_app_module_de81d42297c63110077c35600153af0c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Imp Tmpl X 848632 Bizcc Parish</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_imp_tmpl_x_848632_bizcc_parish</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-25 14:03:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>de81d42297c63110077c35600153af0c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Imp Tmpl X 848632 Bizcc Parish</sys_name><sys_overrides/><sys_package display_value="bizcc" source="x_848632_bizcc">bd5b175a97823110077c35600153af21</sys_package><sys_policy/><sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope><sys_update_name>sys_app_module_de81d42297c63110077c35600153af0c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-25 14:03:32</sys_updated_on><timeline_page/><title>Imp Tmpl X 848632 Bizcc Parish</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>591106393</payload_hash>
+        <record_name>Imp Tmpl X 848632 Bizcc Parish</record_name>
+        <reverted_from/>
+        <source>755b175a97823110077c35600153af24</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-25 14:03:32</sys_created_on>
+        <sys_id>5681d42297c63110077c35600153af0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b6725ccc30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-25 14:03:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9a81d42266c63110556af8d7cf3cea0e</update_guid>
+        <update_guid_history>9a81d42266c63110556af8d7cf3cea0e:591106393</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Imp Tmpl X 848632 Bizcc Parish">950ce062974a3110077c35600153af11</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-25 15:59:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5e7552180d554422937e3d547c7167b1</sys_id>
+        <sys_metadata>de81d42297c63110077c35600153af0c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 848632 Bizcc Parish</sys_name>
+        <sys_package display_value="bizcc" source="x_848632_bizcc">bd5b175a97823110077c35600153af21</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope>
+        <sys_scope_delete display_value="">477655fdf27442a8a070864ddc387b69</sys_scope_delete>
+        <sys_update_name>sys_app_module_de81d42297c63110077c35600153af0c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_de81d42297c63110077c35600153af0c">5681d42297c63110077c35600153af0f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-25 15:59:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

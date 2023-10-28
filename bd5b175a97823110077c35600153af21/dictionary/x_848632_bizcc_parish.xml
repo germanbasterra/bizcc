@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="ba9d1b5e97823110077c35600153af4a" label="Parish" max_length="40" name="x_848632_bizcc_parish" type="collection">
+        <element label="Address" max_length="60" name="address" type="string"/>
+        <element label="Email" max_length="60" name="email" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,ref_auto_completer=AJAXTableCompleter,ref_ac_columns=parish,priest,ref_ac_columns_search=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Parish" max_length="40" name="parish" type="string"/>
+        <element label="Phone" max_length="9" name="phone" type="string"/>
+        <element label="Priest" max_length="40" name="priest" type="string"/>
+        <element label="UP. Sector" max_length="40" name="up_sector" type="string"/>
+        <element label="ZIP" max_length="5" name="zip" type="string"/>
+    </element>
+</database>

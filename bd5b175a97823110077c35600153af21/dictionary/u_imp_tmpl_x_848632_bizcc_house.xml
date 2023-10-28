@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b1abc6b29746b110077c35600153af20" extends="sys_import_set_row" label="Imp Tmpl X 848632 Bizcc House" max_length="40" name="u_imp_tmpl_x_848632_bizcc_house" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address" label="Address" max_length="80" name="u_address" type="string"/>
+        <element attributes="import_attribute_name=Baths" label="Baths" max_length="40" name="u_baths" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=District" label="District" max_length="40" name="u_district" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Lift" label="Lift" max_length="40" name="u_lift" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Neighbourhood" label="Neighbourhood" max_length="40" name="u_neighbourhood" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Price" label="Price" max_length="40" name="u_price" type="integer"/>
+        <element attributes="import_attribute_name=Rooms" label="Rooms" max_length="40" name="u_rooms" type="integer"/>
+        <element attributes="import_attribute_name=Square meters" label="Square meters" max_length="20" name="u_square_meters" type="integer"/>
+        <element attributes="import_attribute_name=Year" label="Year" max_length="40" name="u_year" type="integer"/>
+    </element>
+</database>
