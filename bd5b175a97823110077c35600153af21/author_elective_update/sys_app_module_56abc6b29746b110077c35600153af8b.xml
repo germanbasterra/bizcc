@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Imp Tmpl X 848632 Bizcc House</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_imp_tmpl_x_848632_bizcc_house</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 17:35:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56abc6b29746b110077c35600153af8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 848632 Bizcc House</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="bizcc" source="x_848632_bizcc">bd5b175a97823110077c35600153af21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope>
+        <sys_update_name>sys_app_module_56abc6b29746b110077c35600153af8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 17:35:35</sys_updated_on>
+        <timeline_page/>
+        <title>Imp Tmpl X 848632 Bizcc House</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="bizcc">bd5b175a97823110077c35600153af21</application>
+        <file_path/>
+        <instance_id>6cae93bddb7ad7400e785d00cf961923</instance_id>
+        <instance_name>dev61944</instance_name>
+        <name>sys_app_module_56abc6b29746b110077c35600153af8b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Imp Tmpl X 848632 Bizcc House</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_imp_tmpl_x_848632_bizcc_house</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-26 17:35:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>56abc6b29746b110077c35600153af8b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Imp Tmpl X 848632 Bizcc House</sys_name><sys_overrides/><sys_package display_value="bizcc" source="x_848632_bizcc">bd5b175a97823110077c35600153af21</sys_package><sys_policy/><sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope><sys_update_name>sys_app_module_56abc6b29746b110077c35600153af8b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-26 17:35:35</sys_updated_on><timeline_page/><title>Imp Tmpl X 848632 Bizcc House</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1711623987</payload_hash>
+        <record_name>Imp Tmpl X 848632 Bizcc House</record_name>
+        <reverted_from/>
+        <source>755b175a97823110077c35600153af24</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 17:35:35</sys_created_on>
+        <sys_id>5aabc6b29746b110077c35600153af8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b6d0e4d0b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 17:35:35</sys_updated_on>
+        <type>Module</type>
+        <update_guid>5eabc6b25b46b1108dfcbf6321b1a08c</update_guid>
+        <update_guid_history>5eabc6b25b46b1108dfcbf6321b1a08c:1711623987</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Imp Tmpl X 848632 Bizcc House">65974de797ca7510077c35600153af5e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-28 20:33:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>028af80ba2ca44cb804d6d809c4bf491</sys_id>
+        <sys_metadata>56abc6b29746b110077c35600153af8b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 848632 Bizcc House</sys_name>
+        <sys_package display_value="bizcc" source="x_848632_bizcc">bd5b175a97823110077c35600153af21</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope>
+        <sys_scope_delete display_value="">477655fdf27442a8a070864ddc387b69</sys_scope_delete>
+        <sys_update_name>sys_app_module_56abc6b29746b110077c35600153af8b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_56abc6b29746b110077c35600153af8b">5aabc6b29746b110077c35600153af8d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-28 20:33:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

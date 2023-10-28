@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_848632_bizcc_house" version="2" view="">
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_imp_tmpl_x_848632_bizcc_house</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>60eb6122978e3110077c35600153afc5</sys_id>
+            <sys_mod_count/>
+            <sys_name>u_imp_tmpl_x_848632_bizcc_house</sys_name>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2023-10-26 07:42:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="bizcc">bd5b175a97823110077c35600153af21</application>
+        <file_path/>
+        <instance_id>6cae93bddb7ad7400e785d00cf961923</instance_id>
+        <instance_name>dev61944</instance_name>
+        <name>sys_ui_list_u_imp_tmpl_x_848632_bizcc_house_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="u_imp_tmpl_x_848632_bizcc_house" version="2" view=""><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>u_imp_tmpl_x_848632_bizcc_house</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>60eb6122978e3110077c35600153afc5</sys_id><sys_mod_count/><sys_name>u_imp_tmpl_x_848632_bizcc_house</sys_name><sys_package/><sys_policy/><sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2023-10-26 07:42:57</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1332447504</payload_hash>
+        <record_name>u_imp_tmpl_x_848632_bizcc_house</record_name>
+        <reverted_from/>
+        <source>755b175a97823110077c35600153af24</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-26 07:42:57</sys_created_on>
+        <sys_id>8904c072978a7110077c35600153afaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b6aefb8920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 07:42:57</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>8104c072828a711009c199e12bf782af</update_guid>
+        <update_guid_history>8104c072828a711009c199e12bf782af:1332447504,5cdb6d22c08e3110409118b889d90888:7518583,54db6d22c68e3110a699b7bc83f67782:-429663350</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-28 20:33:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>0015c03d6575466a80007bddbe1e8a04</sys_id>
+        <sys_metadata>ceabc6b29746b110077c35600153af67</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_imp_tmpl_x_848632_bizcc_house</sys_name>
+        <sys_package display_value="bizcc" source="x_848632_bizcc">bd5b175a97823110077c35600153af21</sys_package>
+        <sys_parent display_value="">b1abc6b29746b110077c35600153af20</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="bizcc">bd5b175a97823110077c35600153af21</sys_scope>
+        <sys_scope_delete display_value="">477655fdf27442a8a070864ddc387b69</sys_scope_delete>
+        <sys_update_name>sys_ui_list_u_imp_tmpl_x_848632_bizcc_house_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_u_imp_tmpl_x_848632_bizcc_house_null">8904c072978a7110077c35600153afaf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-28 20:33:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -14,7 +14,11 @@
                 <element inactive_on_update="false" label="Works license" value="works license"/>
             </choice>
         </element>
+        <element label="House number" max_length="32" name="house_number" reference="x_848632_bizcc_house" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
         <element label="PDF" max_length="40" name="pdf" type="file_attachment"/>
+        <index name="index">
+            <element name="house_number"/>
+        </index>
     </element>
 </database>
